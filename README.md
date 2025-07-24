@@ -1,16 +1,37 @@
-# task_app
+# 🍽️ Task App - Basic Restaurant Mobile App
 
-A new Flutter project.
+This is a simple restaurant Flutter mobile app built . It includes Firebase Authentication and displays a food menu with an add-to-cart feature using local state management.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+### 🔐 Authentication
+- Login with email and password
+- Firebase Authentication
+- Form validation (empty fields, invalid email)
 
-A few resources to get you started if this is your first Flutter project:
+### 📋 Menu Page
+- List of static food items
+- Each item displays:
+  - Name
+  - Price
+  - Image
+- Clean UI layout
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🛒 Add to Cart
+- Add/remove items from local cart
+- Cart page displays:
+  - Selected items
+  - Total price
+- Managed with `setState` 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧩 Tech Stack
+- Flutter
+- Firebase Authentication
+- Local state management (`setState`)
+- Clean folder structure: `screens`, `widgets`, `models`,  etc.
+
+## 🎨 UI Preview
+
+| Login Page | Menu Page | Cart Page |
+|------------|-----------|-----------|
+| ![Sign In](assets/images/signin.jpeg) | ![Menu](assets/images/home.jpeg) | ![Cart](assets/images/cart.jpeg) | ![Sign Up](assets/images/signup.jpeg)
