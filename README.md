@@ -32,6 +32,6 @@ This is a simple restaurant Flutter mobile app built . It includes Firebase Auth
 
 ## 🎨 UI Preview
 
-| Login Page | Menu Page | Cart Page |
-|------------|-----------|-----------|
-| ![Sign In](assets/images/signin.jpeg) | ![Menu](assets/images/home.jpeg) | ![Cart](assets/images/cart.jpeg) | ![Sign Up](assets/images/signup.jpeg)
+| Sign in Page | Sign up Page | Menu Page | Cart Page |
+|--------------|--------------|-----------|-----------|
+| ![Sign In](assets/images/signin.jpeg) |![Sign Up](assets/images/signup.jpeg)| ![Menu](assets/images/home.jpeg) | ![Cart](assets/images/cart.jpeg) | 
