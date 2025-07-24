@@ -4,7 +4,7 @@ import 'package:task_app/core/utils/widgets/show_custom_snackbar.dart';
 import 'package:task_app/features/auth_feature/presentation/manager/login_cubit/signin_cubit.dart';
 import 'package:task_app/features/auth_feature/presentation/pages/widget/custom_button.dart';
 import 'package:task_app/features/auth_feature/presentation/pages/widget/sign_in_form.dart';
-import 'package:task_app/features/home/home_page.dart';
+import 'package:task_app/features/home/presentation/pages/home_page.dart';
 
 class SigninPage extends StatelessWidget {
   SigninPage({super.key});

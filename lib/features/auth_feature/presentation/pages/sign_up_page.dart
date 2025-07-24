@@ -5,7 +5,7 @@ import 'package:task_app/features/auth_feature/domain/entities/sign_up_enitity.d
 import 'package:task_app/features/auth_feature/presentation/manager/sign_up_cubit/sign_up_cubit.dart';
 import 'package:task_app/features/auth_feature/presentation/pages/widget/custom_button.dart';
 import 'package:task_app/features/auth_feature/presentation/pages/widget/sign_up_form.dart';
-import 'package:task_app/features/home/home_page.dart';
+import 'package:task_app/features/home/presentation/pages/home_page.dart';
 
 class SignUpPage extends StatelessWidget {
   SignUpPage({super.key});
